@@ -1,3 +1,7 @@
+// To show creativity and exceed the requirements i decided add the following features:
+// - Rate the day from 1 to 10 to track the overall vibe.
+// - Choose a word that describes the main feeling for the day.
+// This helps you capture a more complete picture of how things are going.
 using System;
 
 class Program
